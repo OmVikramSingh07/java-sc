@@ -1,4 +1,3 @@
-console.log(typeof "vikram");
-const name = "vikram"
-console.log(`hello my name is ${name}`);
-
+const buttons = document.querySelectorAll('.button');
+const body = document.querySelector("body")
+console.log(buttons);
